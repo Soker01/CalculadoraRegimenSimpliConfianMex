@@ -1,5 +1,6 @@
-#include <stdio.h>
-int main() {
+	
+	#include <stdio.h>
+	int main() {
 	int n = 0;
 	float Rete, IVA, total, res, Total;
 	do {
@@ -21,4 +22,4 @@ int main() {
 	}while(n == 1);
 	
 	return 0;
-}
+	}
